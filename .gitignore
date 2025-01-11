@@ -1,0 +1,53 @@
+# Build result folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.swp
+*.suo
+*.vcxproj.user
+*.rsuser
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Dotnet Tools
+*.dotnet_tool
+
+# NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Coverage and Testing
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+.coverage/
+
+# Runtime-generated files
+*.dll
+*.exe
+*.pdb
+*.mdb
