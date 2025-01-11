@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FaturamentoTesteWithC#", "FaturamentoTesteWithC#", "{C2D89B91-7898-495C-A4CC-E3CCD429FA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faturamento", "FaturamentoTesteWithC#\Faturamento\Faturamento.csproj", "{63D869F6-5729-4E13-AAC3-38F2DC290C73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FibonacciTesteWithC#", "FibonacciTesteWithC#", "{9CD5426C-DBEC-4C4D-B34D-64A784EF3452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "FibonacciTesteWithC#\Fibonacci\Fibonacci.csproj", "{730A5B0C-F7C1-427C-ACCE-B159C1FA0C8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PercentualTesteWithC#", "PercentualTesteWithC#", "{13578C87-5E21-4E0A-9184-3068491D1CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Percentual", "PercentualTesteWithC#\Percentual\Percentual.csproj", "{B38B34C8-EF29-4001-98FB-EB65A5E1F427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInvert", "StringInvert\StringInvert.csproj", "{6864CD65-F8BA-434A-BC4D-E1837D753C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D869F6-5729-4E13-AAC3-38F2DC290C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D869F6-5729-4E13-AAC3-38F2DC290C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D869F6-5729-4E13-AAC3-38F2DC290C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D869F6-5729-4E13-AAC3-38F2DC290C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730A5B0C-F7C1-427C-ACCE-B159C1FA0C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730A5B0C-F7C1-427C-ACCE-B159C1FA0C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730A5B0C-F7C1-427C-ACCE-B159C1FA0C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730A5B0C-F7C1-427C-ACCE-B159C1FA0C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38B34C8-EF29-4001-98FB-EB65A5E1F427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38B34C8-EF29-4001-98FB-EB65A5E1F427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38B34C8-EF29-4001-98FB-EB65A5E1F427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38B34C8-EF29-4001-98FB-EB65A5E1F427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6864CD65-F8BA-434A-BC4D-E1837D753C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6864CD65-F8BA-434A-BC4D-E1837D753C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6864CD65-F8BA-434A-BC4D-E1837D753C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6864CD65-F8BA-434A-BC4D-E1837D753C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63D869F6-5729-4E13-AAC3-38F2DC290C73} = {C2D89B91-7898-495C-A4CC-E3CCD429FA83}
+		{730A5B0C-F7C1-427C-ACCE-B159C1FA0C8C} = {9CD5426C-DBEC-4C4D-B34D-64A784EF3452}
+		{B38B34C8-EF29-4001-98FB-EB65A5E1F427} = {13578C87-5E21-4E0A-9184-3068491D1CDF}
+	EndGlobalSection
+EndGlobal
